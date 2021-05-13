@@ -84,6 +84,23 @@
   transform: translate(-50%, -50%);
   text-align: center;
 }	
+
+div.background {
+  background: url(klematis.jpg) repeat;
+  border: 2px solid black;
+}
+
+div.transbox {
+  margin: 0px;
+  background-color: #ffffff;
+  border: 1px solid #FFFFFF;
+  opacity: 0.6;
+}
+
+div.transbox p {
+  margin: 0%;
+  font-weight: bolder;
+  color: #000000;
 	
 * Orson http://en.orson.io , autreplanete http://www.autreplanete.com/ 
 *  
