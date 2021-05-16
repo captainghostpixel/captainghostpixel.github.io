@@ -2437,7 +2437,7 @@ tbody.collapse.show {
     margin-bottom: -1px;
 }
 .nav-tabs .nav-link {
-    border: 1px #A42022;
+    border: 1px #FFFFFF;
     border-top-left-radius: 0.25rem;
     border-top-right-radius: 0.25rem;
 }
@@ -2457,8 +2457,8 @@ tbody.collapse.show {
 
 }
 .nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
-    color:darkred;
-    background-color: #000000;
+    color:white;
+    background-color: #A42022;
     border-color: #ddd #ddd #000000;
 }
 .nav-tabs .dropdown-menu {
@@ -2470,8 +2470,8 @@ tbody.collapse.show {
     border-radius: 0.25rem;
 }
 .nav-pills .nav-link.active, .show > .nav-pills .nav-link {
-    color:#A42022;
-    background-color: #000000;
+    color:#FFFFFF;
+    background-color: #A42022;
 }
 .nav-fill .nav-item {
     flex: 1 1 auto;
