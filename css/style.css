@@ -1,5 +1,3 @@
-
-
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
     background-color: transparent;
@@ -2451,15 +2449,13 @@ tbody.collapse.show {
     background-color: transparent;
     border-color: transparent;
 }
-
 .nav-item .nav-link {
-	color:#FFFFFF; 
-	background-color: transparent;
-	border-color: transparent;
-
+    color: #FFFFFF;
+    background-color: transparent;
+    border-color: transparent;
 }
 .nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
-    color:white;
+    color: white;
     background-color: #A42022;
     border-color: #ddd #ddd #000000;
 }
@@ -2472,7 +2468,7 @@ tbody.collapse.show {
     border-radius: 0.25rem;
 }
 .nav-pills .nav-link.active, .show > .nav-pills .nav-link {
-    color:#FFFFFF;
+    color: #FFFFFF;
     background-color: #A42022;
 }
 .nav-fill .nav-item {
@@ -6676,4 +6672,3 @@ a.text-dark:focus, a.text-dark:hover {
     background-color: #212529;
     color: #fff;
 }
-
